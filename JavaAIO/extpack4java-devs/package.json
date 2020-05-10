@@ -1,0 +1,83 @@
+{
+    "name": "extpack4java-devs",
+    "displayName": "Java A. I. O.",
+    "description": "An insane amount of extensions to aid you with Java development.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "author": {
+        "email": "star.master.123.mg@gmail.com",
+        "name": "Guzio",
+        "url": "https://github.com/GuzioMG"
+    },
+    "publisher": "guzio",
+    "galleryBanner": {
+        "color": "#ffff00",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/GuzioMG/VscodeExtensionPacks",
+    "icon": "icon.png",
+    "keywords": [
+        "pack",
+        "extension pack",
+        "extensionpack",
+        "extension",
+        "visual studio code",
+        "vscode",
+        "vs code",
+        "visual studio code extension pack",
+        "vscode extension pack",
+        "vsc",
+        "Java",
+        "java pack"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "pivotal.vscode-manifest-yaml",
+        "pivotal.vscode-concourse",
+        "vscjava.vscode-java-debug",
+        "mellena1.eclipse-new-java-project",
+        "sohibe.java-generate-setters-getters",
+        "dgileadi.java-decompiler",
+        "vscjava.vscode-java-dependency",
+        "walkme.java-extension-pack",
+        "vscjava.vscode-java-pack",
+        "youmaycallmev.vscode-java-saber",
+        "pverest.java-ide-pack",
+        "georgewfraser.vscode-javac",
+        "ithildir.java-properties",
+        "vscjava.vscode-java-test",
+        "redhat.java",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-spring-boot-dashboard",
+        "developersoapbox.vscode-springboot-developer-pack",
+        "pivotal.vscode-boot-dev-pack",
+        "developersoapbox.vscode-springboot-snippets",
+        "pivotal.vscode-spring-boot",
+        "vscjava.vscode-spring-initializr",
+        "adashen.vscode-tomcat",
+        "dotjoshjohnson.xml",
+        "redhat.vscode-yaml",
+        "madhavd1.javadoc-tools",
+        "keeganbruer.javadoc-generator",
+        "xiongqi.vscode-javadoc",
+        "adelphes.android-dev-ext",
+        "diemasmichiels.emulate",
+        "flimberger.android-system-tools",
+        "hanwang.android-adb-wlan",
+        "arahulc91.androidify",
+        "wnbot.vslogcat",
+        "abhiagr.logcat",
+        "raidxu.logcat-color",
+        "makotohamanaka.adb-filesystem",
+        "ypresto.vscode-intelli-refactor",
+        "richardwillis.vscode-gradle",
+        "naco-siren.gradle-language",
+        "richardwillis.vscode-spotless-gradle",
+        "richardwillis.vscode-gradle-extension-pack",
+        "deanlee.vscode-just-start-server"
+    ]
+}
