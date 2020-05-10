@@ -16,7 +16,7 @@
         "color": "#ffff00",
         "theme": "dark"
     },
-    "homepage": "https://github.com/GuzioMG/VscodeExtensionPacks",
+    "homepage": "https://github.com/GuzioMG/VscodeExtensionPacks/tree/master/JavaAIO/extpack4java-devs",
     "icon": "icon.png",
     "keywords": [
         "pack",

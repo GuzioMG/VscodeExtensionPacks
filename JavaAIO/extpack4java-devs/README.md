@@ -21,7 +21,7 @@ or whatever else,
 it's an extension pack **just for *you***!
 
 ## GitHub
-- [Extension pack's GitHub.](https://github.com/GuzioMG/VscodeExtensionPacks)
+- [Extension pack's GitHub.](https://github.com/GuzioMG/VscodeExtensionPacks/tree/master/JavaAIO/extpack4java-devs)
 - [Extension packs' GitHub.](https://github.com/GuzioMG/VscodeExtensionPacks)
 - Why do I put all of my extension packs under one repo? **Because I freaking can!**
 
