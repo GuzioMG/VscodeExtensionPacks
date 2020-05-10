@@ -14,7 +14,7 @@
     "publisher": "guzio",
     "galleryBanner": {
         "color": "#ffff00",
-        "theme": "dark"
+        "theme": "light"
     },
     "homepage": "https://github.com/GuzioMG/VscodeExtensionPacks/tree/master/JavaAIO/extpack4java-devs",
     "icon": "icon.png",
